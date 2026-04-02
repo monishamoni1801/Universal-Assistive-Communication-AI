@@ -53,12 +53,6 @@ The app provides specialized modes for **blind, deaf, and mute users**, enabling
 - **Database**: MongoDB  
 - **Libraries**: Axios for HTTP requests, Expo Camera for image capture  
 
-## Installation
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/Universal-Assistive-Communication-AI.git
-
 ## Usage
 Text-to-Speech
 Enter text in the input box.
@@ -82,6 +76,11 @@ Tap the voice icon to select from available AI voices.
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed0113a2-b53d-45f7-967e-d1a82c04d69b" />
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/29bb23de-56c4-473b-aed3-ccf0acc3e1be" />
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/05952d6b-a3a4-420f-b378-fc18d7fffe94" />
+## Installation
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/Universal-Assistive-Communication-AI.git
 
 
 
