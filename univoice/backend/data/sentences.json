@@ -1,0 +1,92 @@
+{
+  "Basic": [
+    "Hello",
+    "How are you?",
+    "Good morning",
+    "Good afternoon",
+    "Good evening",
+    "Good night",
+    "Thank you",
+    "You're welcome",
+    "Sorry",
+    "Excuse me",
+    "Please wait",
+    "One minute please"
+  ],
+  "Needs": [
+    "I need help",
+    "Please help me",
+    "Call someone",
+    "Call my family",
+    "Call a doctor",
+    "Please stay with me",
+    "I feel uncomfortable",
+    "I am not feeling well",
+    "I need assistance"
+  ],
+  "Food": [
+    "I am hungry",
+    "I want food",
+    "I want water",
+    "Please give me water",
+    "Please give me food",
+    "I want tea",
+    "I want coffee",
+    "I want juice",
+    "I finished eating",
+    "I don't want food"
+  ],
+  "Health": [
+    "I feel sick",
+    "I have a headache",
+    "I have stomach pain",
+    "I feel dizzy",
+    "I need medicine",
+    "Take me to the hospital",
+    "Call an ambulance"
+  ],
+  "Daily": [
+    "Yes",
+    "No",
+    "Maybe",
+    "I agree",
+    "I don't agree",
+    "That is correct",
+    "That is wrong",
+    "Please repeat",
+    "I didn't understand"
+  ],
+  "Location": [
+    "I want to go home",
+    "Take me home",
+    "I want to go outside",
+    "Where is the bathroom?",
+    "Where is the hospital?",
+    "Where is the bus stop?",
+    "I want to sit",
+    "I want to stand"
+  ],
+  "School": [
+    "I completed my work",
+    "I need more time",
+    "Please explain again",
+    "I understand",
+    "I don't understand",
+    "I will do it"
+  ],
+  "Emergency": [
+    "Emergency",
+    "Call the police",
+    "Call an ambulance",
+    "There is danger",
+    "Please help immediately"
+  ],
+  "Emotions": [
+    "I am happy",
+    "I am sad",
+    "I am angry",
+    "I am scared",
+    "I am tired",
+    "I am excited"
+  ]
+}

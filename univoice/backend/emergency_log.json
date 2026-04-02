@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-02-27T11:50:51.312140",
+    "user_id": "user123",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "type": "harassment"
+  },
+  {
+    "timestamp": "2026-02-27T11:50:53.474247",
+    "user_id": "user123",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "type": "bus_stop"
+  }
+]
